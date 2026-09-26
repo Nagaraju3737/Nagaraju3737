@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/Nagaraju3737/Nagaraju3737/blob/main/readme.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Nagaraju</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
