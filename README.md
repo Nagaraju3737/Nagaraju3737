@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/Nagaraju3737/Nagaraju3737/blob/main/readme.gif?raw=true)
-<h1 align="center">Hi 👋, I'm Nagaraju</h1>
+<h1 align="center">Hi ,Nagaraju Here</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaraju3737&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraju3737" /> </p>
